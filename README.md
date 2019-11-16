@@ -1,0 +1,2 @@
+# mystady
+stady repository
